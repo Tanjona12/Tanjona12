@@ -1,5 +1,4 @@
 <h1 align="center">Hello World 👋, Welcome back</h1>
-<h3 align="left">Connect with me:</h3>
 <h3 align="left"><a href="https://tanjona12.github.io/portfolio/">My portfolio<a/></h3>
 <h3 align="left">Networks:</h3>
 <p align="left">
