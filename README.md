@@ -3,10 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻My portfolio : [https://tanjona12.github.io/portfolio/](https://tanjona12.github.io/portfolio/)
+- 👨‍💻My portfolio :  [Tanjona](https://tanjona12.github.io/portfolio/)
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjAzcDFlb29uanZkM3FzZjg1OWFmbnpqcjZvZnlhMW5lNjVlYW8ybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" width="800" />
-
+<p align="right"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjAzcDFlb29uanZkM3FzZjg1OWFmbnpqcjZvZnlhMW5lNjVlYW8ybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" width="400" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tanjona falimanantsoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanjona falimanantsoa" height="30" width="40" /></a>
@@ -19,5 +18,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanjona12&show_icons=true&locale=en&layout=compact" alt="tanjona12" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanjona12&show_icons=true&locale=en" alt="tanjona12" /></p>
 
