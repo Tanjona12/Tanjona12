@@ -3,7 +3,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjAzcDFlb29uanZkM3FzZjg1OWFmbnpqcjZvZnlhMW5lNjVlYW8ybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" width="500" />
 
-- 👨‍💻My portfolio :  [Tanjona](https://tanjona12.github.io/portfolio/)
+- 👨‍💻About me :  [Tanjona](https://tanjona12.github.io/portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
