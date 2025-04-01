@@ -5,12 +5,6 @@
 
 - 👨‍💻About me :  [Tanjona](https://tanjona12.github.io/portfolio/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/tanjona-falimanantsoa-6a911434a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanjona falimanantsoa" height="30" width="40" /></a>
-   <a href="mailto:falimanantsu@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/email.svg" alt="email" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
