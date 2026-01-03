@@ -63,8 +63,8 @@
 
 <!-- GITHUB STATS CÔTÉ À CÔTÉ -->
 <p align="center">
-  <img src="https://github-readme-stats-beta-one-28.vercel.app/api?username=tanjona12&show_icons=true&theme=tokyonight" width="320" style="display:inline-block; margin-right:10px;" />
-  <img src="https://github-readme-stats-beta-one-28.vercel.app/api/top-langs/?username=tanjona12&layout=compact&theme=tokyonight" width="320" style="display:inline-block;" />
+  <img src="https://github-readme-stats-beta-one-28.vercel.app/api?username=tanjona12&show_icons=true&theme=tokyonight" width="420" style="display:inline-block; margin-right:10px;" />
+  <img src="https://github-readme-stats-beta-one-28.vercel.app/api/top-langs/?username=tanjona12&layout=compact&theme=tokyonight" width="420" style="display:inline-block;" />
 </p>
 
 ---
