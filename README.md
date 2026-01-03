@@ -62,18 +62,6 @@
 ---
 
 <!-- GITHUB STATS CÔTÉ À CÔTÉ -->
-<table>
-  <tr>
-    <td valign="top">
-        ![GitHub Stats](https://github-readme-stats-beta-one-28.vercel.app/api?username=tanjona12&show_icons=true&theme=tokyonight)
-    </td>
-    <td valign="top">
-      ![Top Langs](https://github-readme-stats-beta-one-28.vercel.app/api?username=tanjona12&layout=compact&theme=tokyonight)
-    </td>
-  </tr>
-</table>
-
-
 ![GitHub Stats](https://github-readme-stats-beta-one-28.vercel.app/api?username=tanjona12&show_icons=true&theme=tokyonight) 
 ![Top Langs](https://github-readme-stats-beta-one-28.vercel.app/api?username=tanjona12&layout=compact&theme=tokyonight)
 ---
