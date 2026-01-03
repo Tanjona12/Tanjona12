@@ -18,22 +18,24 @@
 
 ---
 
-<!-- ABOUT -->
-## 👨‍💻 About Me
+<!-- ABOUT + SKILLS CÔTÉ À CÔTÉ -->
+<table>
+  <tr>
+    <!-- ABOUT ME -->
+    <td valign="top" width="50%">
+### 👨‍💻 About Me
 
 - 🚀 Passionate **Web Developer**
 - 💻 Working with **React, Next.js, PHP, MySQL**
 - 🎨 UI lover with **Tailwind & Bootstrap**
 - 📚 Always learning new technologies
+    </td>
 
-<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjAzcDFlb29uanZkM3FzZjg1OWFmbnpqcjZvZnlhMW5lNjVlYW8ybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+    <!-- LANGUAGES & TOOLS -->
+    <td valign="top" width="50%">
+### 🛠️ Languages & Tools
 
----
-
-<!-- SKILLS -->
-## 🛠️ Languages & Tools
-
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
@@ -46,23 +48,35 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/>
   <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="45"/>
 </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<!-- STATS -->
-## 📊 GitHub Stats
+<!-- GIF EN BAS -->
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjAzcDFlb29uanZkM3FzZjg1OWFmbnpqcjZvZnlhMW5lNjVlYW8ybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+</p>
 
+---
+
+<!-- GITHUB STATS CÔTÉ À CÔTÉ -->
+<table>
+  <tr>
+    <td valign="top">
 ![GitHub Stats](https://github-readme-stats-beta-one-28.vercel.app/api?username=tanjona12&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats-beta-one-28.vercel.app/api?username=tanjona12&layout=compact&theme=tokyonight)
-
-
+    </td>
+    <td valign="top">
+![Top Langs](https://github-readme-stats-beta-one-28.vercel.app/api/top-langs/?username=tanjona12&layout=compact&theme=tokyonight)
+    </td>
+  </tr>
+</table>
 
 ---
+
 
 <!-- FOOTER -->
 <p align="center">
   ✨ Thanks for visiting my profile ✨
 </p>
-
-
