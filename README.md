@@ -68,9 +68,7 @@
       </td>
 
       <td valign="top" width="50%">
-      <p>
         <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjAzcDFlb29uanZkM3FzZjg1OWFmbnpqcjZvZnlhMW5lNjVlYW8ybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
-     </p>
      </td>
       
   </tr>
