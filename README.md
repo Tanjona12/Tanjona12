@@ -23,7 +23,7 @@
   <tr>
     <!-- ABOUT ME -->
     <td valign="top" width="50%">
-### 👨‍💻 About Me
+ 👨‍💻 About Me
 
 - 🚀 Passionate **Web Developer**
 - 💻 Working with **React, Next.js, PHP, MySQL**
@@ -56,7 +56,7 @@
 
 <!-- GIF EN BAS -->
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjAzcDFlb29uanZkM3FzZjg1OWFmbnpqcjZvZnlhMW5lNjVlYW8ybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjAzcDFlb29uanZkM3FzZjg1OWFmbnpqcjZvZnlhMW5lNjVlYW8ybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="520"/>
 </p>
 
 ---
@@ -68,7 +68,7 @@
 ![GitHub Stats](https://github-readme-stats-beta-one-28.vercel.app/api?username=tanjona12&show_icons=true&theme=tokyonight)
     </td>
     <td valign="top">
-![Top Langs](https://github-readme-stats-beta-one-28.vercel.app/api/top-langs/?username=tanjona12&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-beta-one-28.vercel.app/api?username=tanjona12&layout=compact&theme=tokyonight)
     </td>
   </tr>
 </table>
