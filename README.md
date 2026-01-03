@@ -54,25 +54,20 @@
 
 ---
 
-<table>
-  <tr>
-    
-     
-     
-     <td valign="top" width="50%">
-       <p>
-        <!-- GITHUB STATS  -->
-          <img src="https://github-readme-stats-beta-one-28.vercel.app/api?username=tanjona12&show_icons=true&theme=tokyonight"/>
-          <img src="https://github-readme-stats-beta-one-28.vercel.app/api/top-langs/?username=tanjona12&layout=compact&theme=tokyonight"/>
-        </p>
-      </td>
+<p align="center">
+  <!-- GIF à gauche -->
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjAzcDFlb29uanZkM3FzZjg1OWFmbnpqcjZvZnlhMW5lNjVlYW8ybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" 
+       width="300" style="display:inline-block; vertical-align:top; margin-right:20px;" />
 
-      <td valign="top" width="50%">
-        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjAzcDFlb29uanZkM3FzZjg1OWFmbnpqcjZvZnlhMW5lNjVlYW8ybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
-     </td>
-      
-  </tr>
-</table>
+  <!-- Stats GitHub à droite -->
+  <span style="display:inline-block; vertical-align:top;">
+    <img src="https://github-readme-stats-beta-one-28.vercel.app/api?username=tanjona12&show_icons=true&theme=tokyonight" 
+         width="300" style="margin-bottom:10px;" />
+    <img src="https://github-readme-stats-beta-one-28.vercel.app/api/top-langs/?username=tanjona12&layout=compact&theme=tokyonight" 
+         width="300" />
+  </span>
+</p>
+
 
 ---
 
