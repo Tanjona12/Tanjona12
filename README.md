@@ -55,18 +55,19 @@
 ---
 
 <p align="center">
-  <!-- GIF à gauche -->
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjAzcDFlb29uanZkM3FzZjg1OWFmbnpqcjZvZnlhMW5lNjVlYW8ybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" 
-       width="300" style="display:inline-block; vertical-align:top; margin-right:20px;" />
-
-  <!-- Stats GitHub à droite -->
-  <span style="display:inline-block; vertical-align:top;">
+  <!-- Stats GitHub à gauche (empilées) -->
+  <span style="display:inline-block; vertical-align:top; margin-right:20px;">
     <img src="https://github-readme-stats-beta-one-28.vercel.app/api?username=tanjona12&show_icons=true&theme=tokyonight" 
-         width="300" style="margin-bottom:10px;" />
+         width="320" style="margin-bottom:10px;" />
     <img src="https://github-readme-stats-beta-one-28.vercel.app/api/top-langs/?username=tanjona12&layout=compact&theme=tokyonight" 
-         width="300" />
+         width="320" />
   </span>
+
+  <!-- GIF à droite, hauteur ajustée à celle des stats -->
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjAzcDFlb29uanZkM3FzZjg1OWFmbnpqcjZvZnlhMW5lNjVlYW8ybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"
+       width="200" style="display:inline-block; vertical-align:top;" />
 </p>
+
 
 
 ---
