@@ -52,9 +52,9 @@
 <!-- STATS -->
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://TON-URL.vercel.app/api?username=tanjona12&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-beta-one-28.vercel.app/api?username=tanjona12&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://TON-URL.vercel.app/api/top-langs/?username=tanjona12&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-beta-one-28.vercel.app/api?username=tanjona12&layout=compact&theme=tokyonight)
 
 
 
