@@ -73,6 +73,9 @@
   </tr>
 </table>
 
+
+![GitHub Stats](https://github-readme-stats-beta-one-28.vercel.app/api?username=tanjona12&show_icons=true&theme=tokyonight) 
+![Top Langs](https://github-readme-stats-beta-one-28.vercel.app/api?username=tanjona12&layout=compact&theme=tokyonight)
 ---
 
 
