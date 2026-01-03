@@ -54,19 +54,21 @@
 
 ---
 
-<p align="center">
-  <!-- Stats GitHub à gauche (empilées) -->
-  <span style="display:inline-block; vertical-align:top;">
-    <img src="https://github-readme-stats-beta-one-28.vercel.app/api?username=tanjona12&show_icons=true&theme=tokyonight" 
-          style="margin-bottom:10px;" />
-    <img src="https://github-readme-stats-beta-one-28.vercel.app/api/top-langs/?username=tanjona12&layout=compact&theme=tokyonight" 
-          />
-  </span>
+<table>
+  <tr>
+    <!-- COLONNE GAUCHE : Stats GitHub empilées -->
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats-beta-one-28.vercel.app/api?username=tanjona12&show_icons=true&theme=tokyonight" width="320" style="display:block; margin-bottom:10px;" />
+      <img src="https://github-readme-stats-beta-one-28.vercel.app/api/top-langs/?username=tanjona12&layout=compact&theme=tokyonight" width="320" />
+    </td>
 
-  <!-- GIF à droite, hauteur ajustée à celle des stats -->
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjAzcDFlb29uanZkM3FzZjg1OWFmbnpqcjZvZnlhMW5lNjVlYW8ybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"
-        style="display:inline-block; vertical-align:top;" />
-</p>
+    <!-- COLONNE DROITE : GIF -->
+    <td valign="top" width="50%">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjAzcDFlb29uanZkM3FzZjg1OWFmbnpqcjZvZnlhMW5lNjVlYW8ybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
+    </td>
+  </tr>
+</table>
+
 
 
 
