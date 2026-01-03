@@ -60,8 +60,8 @@
      <td valign="top" width="50%">
         <!-- GITHUB STATS  -->
         <p>
-          <img src="https://github-readme-stats-beta-one-28.vercel.app/api?username=tanjona12&show_icons=true&theme=tokyonight" width="320"/>
-          <img src="https://github-readme-stats-beta-one-28.vercel.app/api/top-langs/?username=tanjona12&layout=compact&theme=tokyonight" width="320"/>
+          <img src="https://github-readme-stats-beta-one-28.vercel.app/api?username=tanjona12&show_icons=true&theme=tokyonight"/>
+          <img src="https://github-readme-stats-beta-one-28.vercel.app/api/top-langs/?username=tanjona12&layout=compact&theme=tokyonight"/>
         </p>
       </td>
       <td valign="top" width="50%">
